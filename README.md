@@ -1,2 +1,4 @@
-# B7Web-HTML-CSS
-Repository created for sharing B7Web course projects - HTML5 and CSS3.
+# B7Web-Course-HTML-CSS-Project-Medicenter
+
+Repository created for the development of the B7Web HTML and CSS course project.
+This project reproduces the Medicenter website as a form of study.
